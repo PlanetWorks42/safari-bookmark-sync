@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "Safari Bookmark Sync";
+"CFBundleName" = "Safari Bookmark Sync";
+"NSAppleEventsUsageDescription" = "Wait for the destination browser to quit normally before updating saved bookmarks.";

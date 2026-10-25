@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<installer-gui-script minSpecVersion="2">
+  <title>Safari Bookmark Sync / Safari 收藏夹同步 V0.9</title>
+  <organization>local.SafariFavoritesSync</organization>
+  <welcome file="welcome.html"/>
+  <conclusion file="conclusion.html"/>
+  <options customize="never" require-scripts="false" hostArchitectures="arm64"/>
+  <domains enable_localSystem="true" enable_currentUserHome="false" enable_anywhere="false"/>
+  <volume-check><allowed-os-versions><os-version min="13.0"/></allowed-os-versions></volume-check>
+  <choices-outline><line choice="default"><line choice="app"/></line></choices-outline>
+  <choice id="default"/>
+  <choice id="app" visible="false"><pkg-ref id="local.SafariFavoritesSync.installer"/></choice>
+  <pkg-ref id="local.SafariFavoritesSync.installer" version="__VERSION__" onConclusion="none">SafariFavoritesSync-component.pkg</pkg-ref>
+</installer-gui-script>

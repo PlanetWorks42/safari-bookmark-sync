@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "Safari 收藏夹同步";
+"CFBundleName" = "Safari 收藏夹同步";
+"NSAppleEventsUsageDescription" = "在用户发起同步时等待目标浏览器正常退出，防止收藏夹被旧数据覆盖。";

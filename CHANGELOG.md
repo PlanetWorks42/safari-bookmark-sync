@@ -1,6 +1,6 @@
 # Changelog / 更新日志
 
-## 0.9.0 — 2026-10-25 · First public preview / 首个公开预览
+## 0.9.0 — 2026-10-27 · First public preview / 首个公开预览
 
 - Select Edge → Safari (default) or Safari → Edge.
 - Incremental and mirror modes in either direction.

@@ -23,7 +23,7 @@
 
 Apple Silicon Mac、macOS 13 或以上，Microsoft Edge 正式版和 Safari 书签文件。写入前只需退出**目标浏览器**；自动任务遇到目标运行会跳过，不自动退出浏览器。
 
-1. 从 [GitHub Releases](https://github.com/archever3322/safari-bookmark-sync/releases) 下载安装器，双击 `Safari 收藏夹同步-0.9.0-安装器.pkg`，通过系统安装器安装到 `/Applications/Safari 收藏夹同步.app`。
+1. 从 [GitHub Releases](https://github.com/PlanetWorks42/safari-bookmark-sync/releases) 下载安装器，双击 `Safari 收藏夹同步-0.9.0-安装器.pkg`，通过系统安装器安装到 `/Applications/Safari 收藏夹同步.app`。
 2. 从“应用程序”打开，在“设置”选择 Edge 个人资料及 Safari 原始 `~/Library/Safari/Bookmarks.plist`。
 3. 点击“检查访问”。若被拒绝，点击“打开完全磁盘访问设置”，添加并开启安装后的 App，按提示重新打开。
 4. 先备份，再选择方向和模式，首次同步后核对目标浏览器。

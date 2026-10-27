@@ -28,7 +28,7 @@ A native macOS utility for synchronizing **bookmarks and folders** between Micro
 
 ## Install and start
 
-1. Download the V0.9 installer from [GitHub Releases](https://github.com/PlanetWorks42/safari-bookmark-sync/releases), then open `Safari 收藏夹同步-0.9.0-安装器.pkg` with the macOS Installer. It installs to `/Applications/Safari 收藏夹同步.app`.
+1. Download the V0.9 installer from [GitHub Releases](https://github.com/PlanetWorks42/safari-bookmark-sync/releases), then open `SafariBookmarkSync-0.9.0-arm64.pkg` with the macOS Installer. It installs to `/Applications/Safari 收藏夹同步.app`.
 2. Open the installed app. In Settings, select the Edge profile and authorize Safari’s original `~/Library/Safari/Bookmarks.plist`.
 3. Click Check Access. If denied, use Open Full Disk Access Settings, add the installed app, enable it, and reopen when prompted.
 4. Make a manual backup, choose the direction and mode, then verify your first sync in the destination browser.
